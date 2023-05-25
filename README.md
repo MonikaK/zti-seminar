@@ -25,7 +25,7 @@ Należy kliknąć na odpowiednią usługę i odpalić ją zielonym przyciskiem "
 AdminServer - http://localhost:8099  
 Eureka - http://localhost:8761  
 ConfigServer - http://localhost:8012  
-Gateway - http://localhost:8084
+Gateway - http://localhost:8084  
 UserService - http://localhost:8081  
 BlogService - port jest losowany dla każdej instancji  
 
