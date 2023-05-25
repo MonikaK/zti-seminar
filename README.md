@@ -48,7 +48,7 @@ Przez Gateway można przejsć do usług UserService (/user-service) i BlogServic
 ### Rozpoczęcie projektu
 
 W oknie File -> New -> Project ustaw następujące opcje:  
-![img_3.png](img_3.png)
+![img_3.png](img_3.png)  
 W przypadku braku JDK 11 na komputerze wciśnij `Download JDK` i ustaw, tak jak pokazano poniżej:  
 ![img.png](img.png)
 
